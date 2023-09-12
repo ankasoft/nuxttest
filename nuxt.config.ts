@@ -16,7 +16,8 @@ export default defineNuxtConfig({
     '@vue-macros/nuxt',
     'nuxt-typed-router',
     '@nuxtjs/google-fonts',
-    '~/modules/primevue'
+    '~/modules/primevue',
+    '@nuxt/content'
   ],
 
   css: [
